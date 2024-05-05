@@ -8,6 +8,10 @@
 <body>
     <div class = "container">
         This is my first php website
+        <br>
+        <?php
+        echo "Hello world and this is printed using php"
+        ?>
     </div>
     
 </body>
