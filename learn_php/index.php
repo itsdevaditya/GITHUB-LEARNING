@@ -24,7 +24,7 @@
         echo $variable1;
         echo "<br>";
         echo $variable2;
-
+        
         ?>
     </div>
     
